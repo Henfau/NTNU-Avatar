@@ -10,3 +10,7 @@ As requested by [NTNU - Kommunikasjonsavdelingen](https://www.ntnu.no/adm/komm)
 ## Dependencies
 [LWJGL](https://github.com/LWJGL/lwjgl3), an open source library with bindings to OpenGL.  
 [JOML](https://github.com/JOML-CI/JOML), a linear algebra library.
+
+## Releases
+
+A packaged jar file can be found [here](https://drive.google.com/open?id=1roHHW8dYt3PGh2mp-q2nX3x1GoPAFNOj)
