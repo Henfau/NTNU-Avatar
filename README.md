@@ -1,5 +1,7 @@
 # NTNU-Avatar
 
+![alt text][https://imgur.com/gallery/ueDj6Y3]
+
 An Audio Visualizer made for the 2018 matriculation ceremony of NTNU Gløshaugen using the widely known graphics API OpenGL.  
 As requested by [NTNU - Kommunikasjonsavdelingen](https://www.ntnu.no/adm/komm)
 
